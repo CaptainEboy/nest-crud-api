@@ -1,3 +1,6 @@
+#Ignore environment variable
+.env
+
 # compiled output
 /dist
 /node_modules
